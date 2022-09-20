@@ -1,3 +1,3 @@
-update via github :) again in VScode :O
+update via github :) again :O
 
 bug here :(
