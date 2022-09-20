@@ -2,4 +2,4 @@ function div(a, b){
 
 }
 
-console.log(div(10, 5))
+console.log(div(8, 4))
